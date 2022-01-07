@@ -1,5 +1,5 @@
 # Solidity Template
-Last version
+
 My favourite setup for writing Solidity smart contracts.
 
 - [Hardhat](https://github.com/nomiclabs/hardhat): compile and run the smart contracts on a local development network
